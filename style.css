@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400italic);
+
+body {
+  background: url("wedding-day.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Libre Baskerville', serif;
+}
+
+#everything {
+  margin-top: 15em;
+
+}
+
+#everything h2 {
+  display: inline-block;
+  margin-right: 1em;
+  margin-left: 1em;
+  color: white;
+  font-size: 2em;
+  text-shadow: -3px -4px 22px rgba(103, 78, 92, 1);
+}
